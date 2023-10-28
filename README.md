@@ -8,4 +8,4 @@ npx tailwindcss init -p
 
 npm run dev
 
-## Now, You are all set
+# Now, You are all set
