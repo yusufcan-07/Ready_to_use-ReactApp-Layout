@@ -1,2 +1,11 @@
-# Ready_to_use-ReactApp-Layout
-Responsive React Web-App for grid layout of your projects
+# React + Vite
+
+## If you have already tailwindcss, you can directly run
+
+npx tailwindcss init -p
+
+## After that
+
+npm run dev
+
+## Now, You are all set
